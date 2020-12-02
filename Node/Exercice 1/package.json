@@ -1,0 +1,17 @@
+{
+  "name": "nodecours1",
+  "version": "1.0.0",
+  "description": "cours node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Erroe: no test specified\"&& exit 1",
+    "start": "nodemon -L index.js"
+  },
+  "author": "William John Adam Trindade",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "*",
+    "nodemon": "* "
+  }
+}
